@@ -1,0 +1,15 @@
+# Ignore Python venv and cache
+backend/env/
+backend/__pycache__/
+backend/uploads/
+backend/.env
+
+# Ignore node modules & frontend coverage
+frontend/node_modules/
+frontend/build/
+frontend/.env
+
+# OS and IDE files
+.DS_Store
+.idea/
+.vscode/
